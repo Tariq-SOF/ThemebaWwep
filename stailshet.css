@@ -1,0 +1,59 @@
+*{
+    background-color: black;
+}
+.navBar{
+    width: 100%;
+    color: white; 
+    height: 100px;      
+        display: flex;
+        flex-direction:row;
+        justify-content:space-around; 
+        align-items: center;
+     
+}
+.link1{
+    color: white;
+    font-size: 25px;
+  
+
+}
+
+.class2{
+    background-color: white;
+    color:black;
+    border-style: solid;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    cursor: pointer;
+    font-size: large;
+}
+.ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+ align-items: center;
+    list-style:none;
+    font-size: medium;
+    align-items: center;
+    
+   
+}
+.class3{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.txt{
+    
+    
+    
+    
+
+}
+img{
+    display: flex;
+    width: 20vw;
+    height: 30vh;
+}
